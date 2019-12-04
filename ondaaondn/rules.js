@@ -16,8 +16,11 @@ function indexpg(num){
             window.alert('Incorreta')
         }
     } else if (num === 3) {
-        if (a === "independencia"){
-            window.alert("Certa Resposta")
+        if (a === "sabado"){
+            window.alert("Vc chegou ao final!!!")
+            //window.location.href = "page4.html"
+        } else if (a === "sábado"){
+            window.alert("Vc chegou ao final!!!")
             //window.location.href = "page4.html"
         } else {
             window.alert('Incorreta')
