@@ -4,7 +4,7 @@ function indexpg(num){
     if (num === 1) {
         if (a === "azul"){
             window.alert("Certa Resposta")
-            window.location.href = "page2.html";
+            window.location.href = "main/page2.html";
         } else {
             window.alert('Incorreta')
         }
